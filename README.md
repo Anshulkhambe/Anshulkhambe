@@ -26,7 +26,7 @@ Passionate about building scalable and secure web applications.
 
 ## 🛠️ Projects
 
-### 🚗 [AtoZStore Ecommerce Website](https://atozstore-ecommerce-website.onrender.com)
+### :🛒 [AtoZStore Ecommerce Website](https://atozstore-ecommerce-website.onrender.com)
 
 Created **AtoZStore**, a robust shopping platform with multiple user roles and seamless functionality.
 
