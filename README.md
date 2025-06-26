@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Anshul Khambe
 
-<!--
-**Anshulkhambe/Anshulkhambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Java Developer | MCA Student (2026)**  
+Passionate about building scalable and secure web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tech Stack
+
+### Languages  
+`Java` • `JavaScript` • `TypeScript` • `SQL` • `Python`
+
+### Frameworks & Libraries  
+`Spring Boot` • `React.js` • `Angular.js` • `React Hook Form`
+
+### Databases  
+`MySQL` • `MongoDB`
+
+### Tools & Platforms  
+`Git` • `Postman` • `VS Code` • `Docker` • `Render`
+
+### Other  
+`JWT Authentication` • `Google OAuth` • `REST APIs` • `Responsive Design` • `Encryption Algorithms`
+
+---
+
+## 🛠️ Projects
+
+### 🚗 [AtoZStore Ecommerce Website](https://atozstore-ecommerce-website.onrender.com)
+
+Created **AtoZStore**, a robust shopping platform with multiple user roles and seamless functionality.
+
+- 🔐 **User Roles:** Customer, Vendor, Delivery Partner, Admin  
+- 🔒 **Security:** JWT Authentication + Google OAuth  
+- 💳 **Payments:** Razorpay Integration  
+- 🗺️ **Location:** OpenStreetMap for real-time tracking  
+- 🖥️ **Tech Stack:** Angular (Frontend) + Spring Boot (Backend) + MySQL (Database)
+
+🔗 **Live Website:** [AtoZStore on Render](https://atozstore-ecommerce-website.onrender.com)  
+🔗 **Source Code:** [GitHub Repo](https://github.com/Anshulkhambe/AtoZStore_Ecommerce_Website.git)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anshulkhambe)
+- 🌐 [Portfolio Website](https://portofolio-3b8k.onrender.com)
+- 📧 Email: anshul.khambe26@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories, give a star, or reach out for collaboration!*
